@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.menubtn button{
+    
+    padding: 10px 45px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 14px;
+    color: white;
+    border: none;
+    background-image: linear-gradient(to right,#649bff,#0070fa,#649bff);
+    border-radius: 10px;
+}
+
+.main-data{
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+    min-height: 100vh;
+    border: 0px solid pink; 
+}
+
+.navbar-brand{
+  border: 0px solid black;
+  background-color: white;
+  padding: 5px;
+}
+
+
+/* Two Sections */
+
+.left-content {
+    padding: 70px 0px;
+    box-sizing: border-box;
+}
+
+.custom-color{
+    color: #00B0FF;
+}
+
+
+/* How it Works */
+
+/*
+.sub-content{
+    border: 3px solid black;
+}
+
+.sub-content .col{
+    border: 3px solid black;
+}
+*/
+
+.sub-content .ol img{
+    max-width: 100%;
+    height: 400px;
+}
+
+.ol{
+    border: 0px solid black;
+}
+

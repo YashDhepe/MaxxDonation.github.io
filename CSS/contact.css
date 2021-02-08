@@ -1,0 +1,69 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.menubtn button{
+    
+    padding: 10px 45px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 14px;
+    color: white;
+    border: none;
+    background-image: linear-gradient(to right,#649bff,#0070fa,#649bff);
+    border-radius: 10px;
+}
+
+.main-data{
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+    min-height: 100vh;
+    border: 0px solid pink; 
+}
+
+.left-content {
+    padding: 70px 0px;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    border: 0px solid black;
+    background-color: white;
+    padding: 5px;
+  }
+
+/*
+.left-content{
+    margin-top: 80px;
+    border-radius: 30px;
+    text-align: center;
+}
+/*
+.heading{
+    background-image: linear-gradient(to right,#649bff,#0070fa,#649bff);
+    color: white;
+    border-radius: 30px;
+}
+
+.contact{
+    border: 1px solid #56a9da;
+    border-radius: 25px;
+    height: 180px;
+}
+
+.address{
+    border: 1px solid #56a9da;
+    border-radius: 25px;
+    height: 180px;
+
+
+}
+
+
+*/
+
+
+
+
+
